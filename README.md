@@ -1,31 +1,21 @@
-# Ejercicios de PSeInt
+Demo Project – GitHub Showcase
 
-Este repositorio contiene una colección de ejercicios resueltos en **PSeInt**, organizados para ayudar a estudiantes a practicar lógica de programación de forma sencilla y progresiva.
+Este repositorio sirve como una demostración práctica para mostrar cómo organizar, documentar y manejar un proyecto dentro de GitHub. Su objetivo es ayudar a estudiantes y principiantes a familiarizarse con las funciones básicas de un repositorio, incluyendo commits, ramas, issues y README.
 
-## 📁 Contenido
-- Ejercicios básicos (variables, entrada y salida)
-- Condicionales
-- Ciclos
-- Arreglos
-- Funciones y procedimientos
-- Problemas aplicados
+🚀 Objetivos del Proyecto
 
-## 🛠️ Requisitos
-Para ejecutar los ejercicios necesitas:
-- **PSeInt** instalado  
-  Puedes descargarlo desde la página oficial.
+Mostrar la estructura básica de un repositorio bien organizado.
 
-## ▶️ Cómo usar este repositorio
-1. Explora las carpetas según el tema que deseas practicar.
-2. Abre los archivos `.psc` en PSeInt.
-3. Ejecuta, analiza y modifica los algoritmos para mejorar tu aprendizaje.
+Practicar comandos esenciales de Git y GitHub.
 
-## 🤝 Contribuciones
-Si deseas agregar ejercicios o mejorar los existentes:
-1. Haz un *fork* del repositorio.
-2. Crea una rama nueva.
-3. Sube tus cambios con un *commit* claro.
-4. Envía un *pull request*.
+Servir como guía o ejemplo para futuros proyectos educativos.
 
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT.
+🛠️ Contenido del Repositorio
+
+src/ — Archivos de ejemplo del proyecto.
+
+docs/ — Documentación o apuntes adicionales.
+
+README.md — Este archivo, como referencia de documentación clara.
+
+Otros archivos utilizados para demostrar commits y versiones.
